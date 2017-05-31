@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>Reflection helpers for C#</Description>
+    <Company></Company>
+    <Authors>Marcin Markowski</Authors>
+    <PostBuildEvent></PostBuildEvent>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <PackageProjectUrl>https://github.com/Sollertes/Reflection</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Sollertes/Reflection</RepositoryUrl>
+    <PackageTags>.Net, C#, Reflection</PackageTags>
+  </PropertyGroup>
+
+</Project>
